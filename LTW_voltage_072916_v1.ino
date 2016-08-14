@@ -7,7 +7,7 @@
 
 
 
-#define Software_Version	0.05
+#define Software_Version	0.051
 
 // Analog Scaling Values
 
